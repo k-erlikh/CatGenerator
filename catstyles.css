@@ -31,7 +31,6 @@
 
 .main__cont h1{
     font-size: 2rem;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.074);
 }
 
 .main__cont h2{
@@ -69,5 +68,4 @@
 
 .cat__btn:hover{
     background-color: #3f136c;
-    /* transition: all 0.3s; */
 }
