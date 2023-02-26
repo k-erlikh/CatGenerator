@@ -1,7 +1,8 @@
 # CatGenerator
 Web application that generates random cat photo and fact.
 
-How to use:
+<h2>How to use:</h2>
+
 1. Press the "Generate" button to get a new fact and cat picture
 2. Enjoy 
 
@@ -9,7 +10,8 @@ How to use:
   <img src="Preview.PNG" width="475px" height="auto" title="hover text" alt="Preview of Cat Generator">
 </p>
 
-Information:
+<h2>Information:</h2>
+
 This website calls two different APIs:
 - Cat Fact API: gets unique cat fact
 - The Cat API: gets unique cat photo
