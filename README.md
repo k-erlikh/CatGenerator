@@ -5,7 +5,7 @@ How to use:
 1. Press the "Generate" button to get a new fact and cat picture
 2. Enjoy 
 
-![Screenshot](Preview.png)
+![Screenshot](Preview.PNG)
 
 Information:
 This website calls two different APIs:
