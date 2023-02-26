@@ -5,8 +5,9 @@ How to use:
 1. Press the "Generate" button to get a new fact and cat picture
 2. Enjoy 
 
-![Screenshot](Preview.PNG)
-
+<p align="center">
+  <img src="Preview.PNG" width="250px" height="auto" title="hover text" alt="Preview of Cat Generator">
+</p>
 Information:
 This website calls two different APIs:
 - Cat Fact API: gets unique cat fact
