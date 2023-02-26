@@ -6,8 +6,9 @@ How to use:
 2. Enjoy 
 
 <p align="center">
-  <img src="Preview.PNG" width="450px" height="auto" title="hover text" alt="Preview of Cat Generator">
+  <img src="Preview.PNG" width="475px" height="auto" title="hover text" alt="Preview of Cat Generator">
 </p>
+
 Information:
 This website calls two different APIs:
 - Cat Fact API: gets unique cat fact
