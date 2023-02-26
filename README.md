@@ -7,7 +7,7 @@ Web application that generates random cat photo and fact.
 2. Enjoy 
 
 <p align="center">
-  <img src="Preview.PNG" width="475px" height="auto" title="hover text" alt="Preview of Cat Generator">
+  <img src="Preview.PNG" width="475px" height="auto" title="Cat Generator" alt="Preview of Cat Generator">
 </p>
 
 <h2>Information:</h2>
@@ -16,7 +16,7 @@ This website calls two different APIs:
 - Cat Fact API: gets unique cat fact
 - The Cat API: gets unique cat photo
 
-JavaScript's fetch method is used to get the API calls.
+JavaScript's fetch method was used to get the API calls.
 This website is not published yet.
 
 
