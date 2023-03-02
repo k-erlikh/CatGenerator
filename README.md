@@ -1,7 +1,7 @@
 # CatGenerator
-<a href="https://k-erlikh.github.io/CatGenerator/"></a>
+"https://k-erlikh.github.io/CatGenerator/"
 
-Web application that generates random cat photo and fact.
+<div>Web application that generates random cat photo and fact.</div>
 
 <h2>How to use:</h2>
 
