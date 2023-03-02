@@ -19,6 +19,6 @@ This website calls two different APIs:
 - The Cat API: gets unique cat photo
 
 JavaScript's fetch method was used to get the API calls.
-This website is not published yet.
+
 
 
