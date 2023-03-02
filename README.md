@@ -1,4 +1,5 @@
 # CatGenerator
+https://k-erlikh.github.io/CatGenerator/
 Web application that generates random cat photo and fact.
 
 <h2>How to use:</h2>
